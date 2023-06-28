@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\vitalya\source\repos\delete\Source.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  delete.vcxproj -> C:\Users\vitalya\source\repos\delete\Debug\delete.exe
